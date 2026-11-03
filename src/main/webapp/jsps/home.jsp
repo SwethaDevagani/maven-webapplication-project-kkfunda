@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1> WELCOME TO B12  GANGA Swetha NEW EVENING BATCH WILL START DEC 06 2026 goodmorning </h1>     
+     <h1> WELCOME TO B12  GANGA and Swetha NEW EVENING BATCH WILL START DEC 06 2026 goodmorning </h1>     
     <h3>Training | Development | Consulting</h3>
 </header>
 
