@@ -46,7 +46,7 @@
 <body>
 
 <header>
-     <h1> WELCOME TO B12 kk funda NEW EVENING BATCH WILL START DEC 06 2027 </h1>     
+     <h1> WELCOME TO B12 kk funda NEW EVENING BATCH WILL START DEC 06 2027 thank you </h1>     
     <h3>Training | Development | Consulting</h3>
 </header>
 
